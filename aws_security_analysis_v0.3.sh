@@ -5,6 +5,8 @@
 
 # Function to print headers in the report with emoji
 print_header() {
+    echo " "
+    echo " "
     echo "🔍 $1"
     echo "------------------------------------"
 }
